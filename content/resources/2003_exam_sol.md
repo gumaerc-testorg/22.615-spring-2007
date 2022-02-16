@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Final Exam solutions from 2003.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-615-mhd-theory-of-fusion-systems-spring-2007/1e22346da986078fd6972bec88ddce50_2003_exam_sol.pdf
+file: /media/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/1e22346da986078fd6972bec88ddce50_2003_exam_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 2003_exam_sol.pdf
 uid: 1e22346d-a986-078f-d697-2bec88ddce50

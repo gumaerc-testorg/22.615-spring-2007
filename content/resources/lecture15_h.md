@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture notes about alternate concepts (with Darren Sarmer).
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-615-mhd-theory-of-fusion-systems-spring-2007/ef51b9a1d2e514d4bd85732bb531e468_lecture15_h.pdf
+file: /media/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/ef51b9a1d2e514d4bd85732bb531e468_lecture15_h.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture15_h.pdf
 uid: ef51b9a1-d2e5-14d4-bd85-732bb531e468
