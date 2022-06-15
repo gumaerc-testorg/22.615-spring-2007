@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about the moment equations.
-file: /media/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/d7a7984d322a2690783a1f68cbf135c0_lecture2.pdf
+file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/d7a7984d322a2690783a1f68cbf135c0_lecture2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: lecture2.pdf
 uid: d7a7984d-322a-2690-783a-1f68cbf135c0
 ---
+Lecture notes about the moment equations.
+

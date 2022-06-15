@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /media/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/2ac300c2e52dde2d3dba4820f25c83fa_hw_1.pdf
+file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/2ac300c2e52dde2d3dba4820f25c83fa_hw_1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: hw_1.pdf
 uid: 2ac300c2-e52d-de2d-3dba-4820f25c83fa
 ---
+Homework assignment.
+

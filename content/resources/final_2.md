@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Second part of the 2007 Final Exam.
-file: /media/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/8861638eef62e8c784e2088e645ecc9c_final_2.pdf
+file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/8861638eef62e8c784e2088e645ecc9c_final_2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
@@ -13,3 +13,5 @@ resourcetype: Document
 title: final_2.pdf
 uid: 8861638e-ef62-e8c7-84e2-088e645ecc9c
 ---
+Second part of the 2007 Final Exam.
+
