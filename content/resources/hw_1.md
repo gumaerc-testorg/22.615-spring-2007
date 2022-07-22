@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-615-mhd-theory-of-fusion-systems-spring-2007/2ac300c2e52dde2d3dba4820f25c83fa_hw_1.pdf
+file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/2ac300c2e52dde2d3dba4820f25c83fa_hw_1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
+parent_uid: 6ca804cb-8345-9b04-e5b9-e65415dcd6bd
 resourcetype: Document
 title: hw_1.pdf
 uid: 2ac300c2-e52d-de2d-3dba-4820f25c83fa
 ---
+Homework assignment.
