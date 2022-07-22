@@ -5,6 +5,7 @@ file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/da2aca4bd2798eff1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture8.pdf
 uid: da2aca4b-d279-8eff-1e44-a3a6564ff05a
 ---
 Lecture notes about the Effect of a Vertical Field on Tokamak Equilibrium.
-

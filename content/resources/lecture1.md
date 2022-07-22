@@ -5,6 +5,7 @@ file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/8cdd8c3e56e983506
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture1.pdf
 uid: 8cdd8c3e-56e9-8350-6835-cd2590ede5f4
 ---
 Lecture notes about the derivation of the Boltzmann equation.
-

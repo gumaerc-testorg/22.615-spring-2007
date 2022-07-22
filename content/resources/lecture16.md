@@ -5,6 +5,7 @@ file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/8cdfc4d94a61aa60d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture16.pdf
 uid: 8cdfc4d9-4a61-aa60-d91b-c02046597130
 ---
 Lecture notes about the variational principle.
-

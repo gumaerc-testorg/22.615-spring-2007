@@ -5,6 +5,7 @@ file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/d8f1617d6be4e0eef
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture6.pdf
 uid: d8f1617d-6be4-e0ee-f803-05e42d0bfbab
 ---
 Lecture notes about the safety factor and the ohmic tokamak.
-

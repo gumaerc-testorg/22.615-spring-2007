@@ -5,6 +5,7 @@ file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/e1f45e14b2fe0198b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture13.pdf
 uid: e1f45e14-b2fe-0198-bedf-a871302c046c
 ---
 Lecture notes about PF design II - the coil solver.
-

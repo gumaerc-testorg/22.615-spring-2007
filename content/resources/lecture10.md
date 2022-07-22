@@ -6,6 +6,7 @@ file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/8f3ff183ac03f9b54
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture10.pdf
 uid: 8f3ff183-ac03-f9b5-4e8f-19c060bf6f1b
 ---
 Lecture notes about the High Beta Tokamak and the High Flux Conserving Tokamak.
-

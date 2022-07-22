@@ -5,6 +5,7 @@ file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/d9838bceb2d723ebd
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midterm_help.pdf
 uid: d9838bce-b2d7-23eb-d9d6-fdc2ba249434
 ---
 This resource contains some hints to help with the Midterm Exam.
-
