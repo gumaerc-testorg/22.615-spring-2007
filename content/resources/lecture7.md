@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about The First Order Grad?Shafranov Equation.
 file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/1cd19dcf37313ed1b040fc1057cb603e_lecture7.pdf
+file_size: 114918
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
