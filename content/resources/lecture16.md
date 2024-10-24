@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about the variational principle.
-file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/8cdfc4d94a61aa60d91bc02046597130_lecture16.pdf
+file: /ol-ocw-studio-app/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/8cdfc4d94a61aa60d91bc02046597130_lecture16.pdf
 file_size: 123930
 file_type: application/pdf
 learning_resource_types:

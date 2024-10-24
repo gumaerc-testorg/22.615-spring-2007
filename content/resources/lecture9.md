@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about The High Beta Tokamak.
-file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/e0b96099e296c3d063e473ed6dc4e734_lecture9.pdf
+file: /ol-ocw-studio-app/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/e0b96099e296c3d063e473ed6dc4e734_lecture9.pdf
 file_size: 214835
 file_type: application/pdf
 learning_resource_types:
