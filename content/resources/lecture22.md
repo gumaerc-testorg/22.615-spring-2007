@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes about MHD Theory of Fusion Systems, the ballooning mode
   equation, Mercier criterion, forms of the Mercier criterion, and ballooning modes.
-file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/3d8c6e9543029684ca2dd49d7dc6e31a_lecture22.pdf
+file: /ol-ocw-studio-app/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/3d8c6e9543029684ca2dd49d7dc6e31a_lecture22.pdf
 file_size: 257462
 file_type: application/pdf
 learning_resource_types:
