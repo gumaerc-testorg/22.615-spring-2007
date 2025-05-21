@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about validity of MHD.
-file: /ol-ocw-studio-app/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/a82fb0bdce36e0a797c71a398b4bfce8_lecture3_2.pdf
+file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/a82fb0bdce36e0a797c71a398b4bfce8_lecture3_2.pdf
 file_size: 222429
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final Exam solutions from 2003.
-file: /ol-ocw-studio-app/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/1e22346da986078fd6972bec88ddce50_2003_exam_sol.pdf
+file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/1e22346da986078fd6972bec88ddce50_2003_exam_sol.pdf
 file_size: 165735
 file_type: application/pdf
 learning_resource_types:

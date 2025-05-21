@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about the derivation of the Boltzmann equation.
-file: /ol-ocw-studio-app/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/8cdd8c3e56e983506835cd2590ede5f4_lecture1.pdf
+file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/8cdd8c3e56e983506835cd2590ede5f4_lecture1.pdf
 file_size: 183367
 file_type: application/pdf
 learning_resource_types:
