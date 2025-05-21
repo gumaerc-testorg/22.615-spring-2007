@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about formulation of the stability problem.
-file: /ol-ocw-studio-app/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/cda9ba8f1dd4c9f2f9abecc8d010adae_lecture14.pdf
+file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/cda9ba8f1dd4c9f2f9abecc8d010adae_lecture14.pdf
 file_size: 138216
 file_type: application/pdf
 learning_resource_types:

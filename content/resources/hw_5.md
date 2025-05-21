@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /ol-ocw-studio-app/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/d650401d1fb1525dd80a1ac8e0631470_hw_5.pdf
+file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/d650401d1fb1525dd80a1ac8e0631470_hw_5.pdf
 file_size: 38846
 file_type: application/pdf
 learning_resource_types:
