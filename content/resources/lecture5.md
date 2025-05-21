@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about the screw pinch and the Grad-Shafranov equation.
-file: /ol-ocw-studio-app/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/a5c962e43b645b825b13715a131166e2_lecture5.pdf
+file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/a5c962e43b645b825b13715a131166e2_lecture5.pdf
 file_size: 281402
 file_type: application/pdf
 learning_resource_types:

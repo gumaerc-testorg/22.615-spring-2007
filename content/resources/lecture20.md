@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about MHD Theory of Fusion Systems.
-file: /ol-ocw-studio-app/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/e3f0bd946bdf6cf56721e580ec06c62b_lecture20.pdf
+file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/e3f0bd946bdf6cf56721e580ec06c62b_lecture20.pdf
 file_size: 118892
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about basic Toroidal Equilibrium and Radial Pressure Balance.
-file: /ol-ocw-studio-app/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/8d05a785dc37e4f7d04add99237ca7f2_lecture4.pdf
+file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/8d05a785dc37e4f7d04add99237ca7f2_lecture4.pdf
 file_size: 226685
 file_type: application/pdf
 learning_resource_types:

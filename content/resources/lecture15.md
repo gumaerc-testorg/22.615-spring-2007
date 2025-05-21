@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about variational techniques.
-file: /ol-ocw-studio-app/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/d09afdd18376694aa374ca9ebc1c0747_lecture15.pdf
+file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/d09afdd18376694aa374ca9ebc1c0747_lecture15.pdf
 file_size: 81442
 file_type: application/pdf
 learning_resource_types:
