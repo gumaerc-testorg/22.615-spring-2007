@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about real tokamaks.
-file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/42c8557cd3f6a7e98bebc1c378fc1a43_lecture14_2.pdf
+file: /ol-ocw-studio-app/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/42c8557cd3f6a7e98bebc1c378fc1a43_lecture14_2.pdf
 file_size: 88535
 file_type: application/pdf
 learning_resource_types:

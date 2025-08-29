@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes about stability of simple function, memory of the energy
   principle, classes of MHD instability, and applications today.
-file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/e37912b7a47e38dad82946523cbd6ed5_lecture17.pdf
+file: /ol-ocw-studio-app/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/e37912b7a47e38dad82946523cbd6ed5_lecture17.pdf
 file_size: 306184
 file_type: application/pdf
 learning_resource_types:
