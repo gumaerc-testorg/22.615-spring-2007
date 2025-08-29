@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about PF design I - the plasma.
-file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/0bfb0523ce1486b20350251e264b1462_lecture12.pdf
+file: /ol-ocw-studio-app/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/0bfb0523ce1486b20350251e264b1462_lecture12.pdf
 file_size: 91847
 file_type: application/pdf
 learning_resource_types:

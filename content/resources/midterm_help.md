@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains some hints to help with the Midterm Exam.
-file: /courses/22-615-mhd-theory-of-fusion-systems-spring-2007/d9838bceb2d723ebd9d6fdc2ba249434_midterm_help.pdf
+file: /ol-ocw-studio-app/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/d9838bceb2d723ebd9d6fdc2ba249434_midterm_help.pdf
 file_size: 99635
 file_type: application/pdf
 learning_resource_types:
